@@ -1,0 +1,4 @@
+﻿  DiskScheduling.cpp
+c:\users\admin\desktop\ece426\homework2\ericchuong_ece426_hw2\ericchuong_ece426_hw2\diskscheduling.cpp(170): warning C4018: '<': signed/unsigned mismatch
+  EricChuong_ECE426_HW2.vcxproj -> C:\Users\Admin\Desktop\ECE426\homework2\EricChuong_ECE426_HW2\Debug\EricChuong_ECE426_HW2.exe
+  EricChuong_ECE426_HW2.vcxproj -> C:\Users\Admin\Desktop\ECE426\homework2\EricChuong_ECE426_HW2\Debug\EricChuong_ECE426_HW2.pdb (Partial PDB)
